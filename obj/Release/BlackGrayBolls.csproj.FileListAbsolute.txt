@@ -1,0 +1,14 @@
+E:\BlackGrayBolls\bin\Release\BlackGrayBolls.exe
+E:\BlackGrayBolls\bin\Release\BlackGrayBolls.pdb
+E:\BlackGrayBolls\obj\Release\ResolveAssemblyReference.cache
+E:\BlackGrayBolls\obj\Release\Window1.baml
+E:\BlackGrayBolls\obj\Release\WindowRule.baml
+E:\BlackGrayBolls\obj\Release\Window1.g.cs
+E:\BlackGrayBolls\obj\Release\WindowRule.g.cs
+E:\BlackGrayBolls\obj\Release\App.g.cs
+E:\BlackGrayBolls\obj\Release\BlackGrayBolls_MarkupCompile.cache
+E:\BlackGrayBolls\obj\Release\BlackGrayBolls.g.resources
+E:\BlackGrayBolls\obj\Release\BlackGrayBolls.Properties.Resources.resources
+E:\BlackGrayBolls\obj\Release\BlackGrayBolls.csproj.GenerateResource.Cache
+E:\BlackGrayBolls\obj\Release\BlackGrayBolls.exe
+E:\BlackGrayBolls\obj\Release\BlackGrayBolls.pdb

@@ -1,0 +1,20 @@
+﻿<Window x:Class="BlackGrayBolls.WinCount"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Title="WinCount" Height="500" Width="700" MinWidth="700" MinHeight="500" MaxWidth="700" MaxHeight="500" IsTabStop="True" Topmost="True" Visibility="Visible" HorizontalAlignment="Stretch" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid Background="DarkGray" IsEnabled="True" HorizontalAlignment="Stretch" ClipToBounds="True">
+        <Button Name="ballik" Margin="307,62,313,338" Height="Auto" Width="Auto" Click="Button_Click">
+            <TextBlock Text="☺"  FontSize="20"></TextBlock>
+        </Button>
+        <TextBlock Height="32" Margin="282,15,219,0" Name="Title" VerticalAlignment="Top" Text="История игр" Foreground="Gray" FontSize="20">
+            <TextBlock.BitmapEffect>
+                <DropShadowBitmapEffect Color="Goldenrod" />
+            </TextBlock.BitmapEffect></TextBlock>
+        <ListBox Name="LB" HorizontalAlignment="Left" Height="198" Margin="182,166,0,0" VerticalAlignment="Top" Width="337"/>
+        <Button Content="Очистить историю" HorizontalAlignment="Left" Margin="245,369,0,0" VerticalAlignment="Top" Width="214" Height="57" Click="Button_Click_1"/>
+        <Grid.BitmapEffectInput>
+            <BitmapEffectInput />
+        </Grid.BitmapEffectInput>
+
+    </Grid>
+</Window>

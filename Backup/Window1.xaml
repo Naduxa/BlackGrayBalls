@@ -1,0 +1,16 @@
+﻿<Window x:Class="BlackGrayBolls.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="BlackGrayBolls" Height="500" Width="700" Foreground="Gray" WindowStyle="ThreeDBorderWindow" WindowStartupLocation="CenterScreen" MinWidth="700" MinHeight="500">
+    <Grid Name = "MainGrid" Background="DarkGray" IsEnabled="True" HorizontalAlignment="Stretch" ClipToBounds="True">
+        <Grid.BitmapEffectInput>
+            <BitmapEffectInput />
+        </Grid.BitmapEffectInput>
+        <TextBlock Height="34" Margin="199,17,203,0" Name="textBlock1" VerticalAlignment="Top" Text="Черно-серые шарики" FontSize="25" /><TextBlock Height="34" Margin="233,17,190,0" Name="textBlock2" VerticalAlignment="Top" Text="" FontSize="25" HorizontalAlignment="Center" TextTrimming="None" />
+        <TextBlock Height="22" Margin="339,60,203,0" Name="textBlock3" VerticalAlignment="Top" Text="Самая серая игра..." FontSize="15" IsEnabled="True" />
+        <Button Name = "rules" Content="Правила" Margin="281.25,123,296.75,0" Height="46" VerticalAlignment="Top" Click="rules_Click" />
+        <Button Height="48" Margin="281.25,169,296.75,0" Name="lever1" VerticalAlignment="Top" Click="lever1_Click">Уровень 1</Button>
+        <Button Margin="281.25,222,296.75,0" Name="lever2" Height="48" VerticalAlignment="Top" Click="lever2_Click">Уровень 2</Button>
+        <Button Margin="280.5,0,297.5,138" Name="lever3"  VerticalAlignment="Bottom" Height="48">Уровень 3</Button>
+        </Grid>
+</Window>

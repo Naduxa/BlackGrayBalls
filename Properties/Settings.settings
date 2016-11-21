@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BlackGrayBolls.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="count1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="count10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0-0-0</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
